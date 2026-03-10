@@ -1,45 +1,84 @@
-# Harsha Kiran H B
+# Hi, I'm Harsha Kiran H B 👋
 
-Final-year Information Science Engineering student with a strong academic foundation and hands-on experience in software development. Demonstrates a particular interest in Java Full Stack Development, with exposure to modern technologies and a commitment to writing clean, maintainable code. Actively seeking opportunities to contribute to scalable and efficient software solutions in a professional environment.
+📍 Bengaluru, India
+📧 [harshakiran2k4@gmail.com](mailto:harshakiran2k4@gmail.com)
+📞 +91 87927 27104
+🔗 LinkedIn: https://www.linkedin.com/in/harsha-kiran-h-b-888819311
 
-## Core Competencies
+---
 
-- **Programming Languages:** Java, C++, C, Python
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Frameworks:** Spring Boot (learning), React (learning)
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, VS Code, XAMPP, Google Cloud Platform
-- **Operating Systems:** Windows, Linux
+## About Me
 
-## Ongoing Academic Project
+I am a data-oriented Information Science and Engineering student with strong hands-on experience in data preprocessing, analysis, visualization, and SQL-based data management. I enjoy working with data-driven systems and building applications that transform raw data into meaningful insights.
 
-- **Vein-Vision: Intelligent Retinal Vessel Segmentation for Medical Insight**  
-  Currently leading the development of a medical imaging application aimed at segmenting retinal blood vessels from fundus images using machine learning techniques. The project focuses on enhancing a pre processing model for early detection and analysis of retinal diseases, supporting diagnostic precision in ophthalmology.
+I have practical experience working with Python, SQL, Excel, Power BI, and Tableau to analyze both structured and unstructured datasets. I am passionate about developing scalable software systems and leveraging modern technologies such as cloud platforms, microservices, and AI-powered applications.
 
-## Selected Projects
+---
 
-- **Airline Management System**  
-  Led the development of a MySQL-based backend system simulating flight bookings and data management, designed for academic demonstration.
+## Skills
 
-- **Speech O’ Notes**  
-  Developed a browser-based voice-to-text application using HTML, CSS, and JavaScript, enabling real-time speech conversion and note management.
+**Programming Languages**
+Java • Python • C
 
-## Certifications
+**Backend & Frameworks**
+Spring Framework • REST APIs • Message Queuing • Build Tools
 
-- Red Hat Certified System Administrator (RHCSA) – Red Hat Academy  
-- Google Cloud Computing Foundations – Google Cloud  
-- Data Structures in C – Great Learning Academy  
-- MERN Stack Foundation Course – [Simpliearn|SKILLUP]
+**Web Technologies**
+HTML • CSS • JavaScript
 
-## Professional Interests
+**Databases**
+MySQL • MongoDB
 
-- Java Full Stack Application Development  
-- RESTful API Development and Microservices  
-- Scalable Web Architecture and Backend Engineering  
-- Cloud-native Application Deployment  
-- Agile Software Development and Remote Collaboration
+**Data Analysis & Visualization**
+Power BI • Tableau • Excel
 
-## Contact Information
+**Design & Development Tools**
+Figma • Adobe Photoshop • Canva • Flutter
 
-- **LinkedIn:** [linkedin.com/in/harsha-kiran-h-b-888819311](https://www.linkedin.com/in/harsha-kiran-h-b-888819311)  
-- **Email:** harshakiran2k4@gmail.com
+**Version Control & Build Tools**
+Git • Maven
+
+---
+
+## Professional Experience
+
+### Android App Development Intern – Generative AI
+
+**Mind Matrix** | Jan 2026 – Present
+
+* Developing Android applications using Kotlin/Java with integration of Generative AI APIs for intelligent application features.
+* Implementing MVVM architecture, REST API integration, and asynchronous programming using Coroutines.
+* Designing responsive UI using XML and Jetpack Compose.
+* Debugging applications and collaborating through Git for efficient development workflows.
+
+---
+
+### Software Engineering Job Simulation
+
+**JPMorgan Chase & Co – Forage** | Jan 2026
+
+* Developed a Spring Boot microservice integrated with Apache Kafka for high-volume transaction processing.
+* Implemented business logic and data persistence using Spring Data JPA with H2 relational database.
+* Designed RESTful APIs using Spring MVC and integrated external services using RestTemplate.
+* Conducted testing using Maven-based unit and integration testing.
+
+---
+
+## Academic Projects
+
+### Vein-Vision – Retinal Vessel Segmentation
+
+Feb 2025 – Nov 2025
+
+* Developed deep learning pipelines for retinal vessel segmentation using CNN architectures such as U-Net and R2U-Net.
+* Performed image preprocessing, feature extraction, model training, and evaluation using accuracy metrics.
+* Technologies: Python, Computer Vision, Deep Learning, Image Processing.
+
+---
+
+### Inventory Management System
+
+Oct 2024 – Dec 2024
+
+* Developed a full-stack inventory management system using the MERN stack (React, Node.js, Express.js, MongoDB).
+* Designed RESTful AP
