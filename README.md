@@ -75,10 +75,41 @@ Feb 2025 – Nov 2025
 * Technologies: Python, Computer Vision, Deep Learning, Image Processing.
 
 ---
-
 ### Inventory Management System
 
-Oct 2024 – Dec 2024
+**Oct 2024 – Dec 2024**
 
 * Developed a full-stack inventory management system using the MERN stack (React, Node.js, Express.js, MongoDB).
-* Designed RESTful AP
+* Designed RESTful APIs and backend services to support scalable CRUD operations and efficient data handling.
+* **Technologies Used:** MongoDB Atlas, Express.js, React.js, Node.js, JavaScript.
+
+---
+
+## Education
+
+**B.E. – Information Science & Engineering**
+Jyothy Institute of Technology, VTU – Bengaluru
+
+**GPA:** 8.6
+**Duration:** Dec 2022 – Present
+
+---
+
+## Certifications
+
+* JPMorgan Chase & Co – Software Engineering Job Simulation
+* RHCSA
+* Google Cloud Computing Foundations
+* Data Structures in C
+* MERN Stack Development
+* Java Programming
+
+---
+
+## Interests
+
+* Software Development
+* Data Analytics
+* Artificial Intelligence
+* Backend Engineering
+* Cloud Computing
