@@ -71,13 +71,6 @@ Full-stack developer and ML enthusiast with hands-on experience building web app
 
 ---
 
-## 📊 GitHub Stats
-
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshakiran08&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshakiran08&layout=compact&theme=tokyonight)
-
----
-
 > *"Building things that work and learning things that matter."*
 
 ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
