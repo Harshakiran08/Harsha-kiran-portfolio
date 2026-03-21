@@ -1,115 +1,83 @@
-# Hi, I'm Harsha Kiran H B 👋
+# 👋 Hi, I'm Harsha Kiran H B
 
-📍 Bengaluru, India
-📧 [harshakiran2k4@gmail.com](mailto:harshakiran2k4@gmail.com)
-📞 +91 87927 27104
-🔗 LinkedIn: https://www.linkedin.com/in/harsha-kiran-h-b-888819311
+**Information Science & Engineering Student @ VTU, Bengaluru | GPA: 8.6**
 
----
+Full-stack developer and ML enthusiast with hands-on experience building web applications and deep learning models. I love turning ideas into working products — from REST APIs to CNN pipelines.
 
-## About Me
-
-I am a data-oriented Information Science and Engineering student with strong hands-on experience in data preprocessing, analysis, visualization, and SQL-based data management. I enjoy working with data-driven systems and building applications that transform raw data into meaningful insights.
-
-I have practical experience working with Python, SQL, Excel, Power BI, and Tableau to analyze both structured and unstructured datasets. I am passionate about developing scalable software systems and leveraging modern technologies such as cloud platforms, microservices, and AI-powered applications.
+📧 harshakiran2k4@gmail.com &nbsp;|&nbsp; 📞 +91 87927 27104 &nbsp;|&nbsp; [[LinkedIn]](https://www.linkedin.com/in/harsha-kiran-h-b-888819311)(#) &nbsp;|&nbsp; [GitHub](https://github.com/Harshakiran08)
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
-Java • Python • C
+**Languages**
+`Java` `Python` `JavaScript` `C`
 
-**Backend & Frameworks**
-Spring Framework • REST APIs • Message Queuing • Build Tools
-
-**Web Technologies**
-HTML • CSS • JavaScript
+**Web & Frameworks**
+`React.js` `Node.js` `Express.js` `Spring Boot` `HTML5` `CSS3` `REST APIs`
 
 **Databases**
-MySQL • MongoDB
+`MySQL` `MongoDB Atlas`
 
-**Data Analysis & Visualization**
-Power BI • Tableau • Excel
+**ML / Computer Vision**
+`CNN` `U-Net` `R2U-Net` `OpenCV` `NumPy` `Pandas`
 
-**Design & Development Tools**
-Figma • Adobe Photoshop • Canva • Flutter
-
-**Version Control & Build Tools**
-Git • Maven
+**Tools & Platforms**
+`Git` `Linux`
 
 ---
 
-## Professional Experience
+## 🚀 Featured Projects
 
-### Android App Development Intern – Generative AI
+### 🔬 Vein-Vision — Retinal Vessel Segmentation
+> `Python` `Deep Learning` `CNN` `U-Net` `R2U-Net` `OpenCV`
 
-**Mind Matrix** | Jan 2026 – Present
-
-* Developing Android applications using Kotlin/Java with integration of Generative AI APIs for intelligent application features.
-* Implementing MVVM architecture, REST API integration, and asynchronous programming using Coroutines.
-* Designing responsive UI using XML and Jetpack Compose.
-* Debugging applications and collaborating through Git for efficient development workflows.
+- Improved retinal vessel segmentation accuracy from **80% → 92%** by training U-Net and R2U-Net architectures on 2,147 labelled retinal images
+- Built an end-to-end ML pipeline covering data augmentation, feature extraction, and multi-metric scoring (precision, recall, F1)
+- Evaluated across two benchmark datasets: **DRIVE** and **STARE**
 
 ---
 
-### Software Engineering Job Simulation
+### 📦 Inventory Management System
+> `React.js` `Node.js` `Express.js` `MongoDB Atlas` `REST APIs`
 
-**JPMorgan Chase & Co – Forage** | Jan 2026
-
-* Developed a Spring Boot microservice integrated with Apache Kafka for high-volume transaction processing.
-* Implemented business logic and data persistence using Spring Data JPA with H2 relational database.
-* Designed RESTful APIs using Spring MVC and integrated external services using RestTemplate.
-* Conducted testing using Maven-based unit and integration testing.
+- Built a full-stack MERN application for real-time product tracking and stock management
+- Exposed **8 RESTful API endpoints** handling CRUD operations on a MongoDB Atlas cluster
+- Implemented authentication, role-based access control, and client-side state management with React hooks
 
 ---
 
-## Academic Projects
+## 🎓 Education
 
-### Vein-Vision – Retinal Vessel Segmentation
-
-Feb 2025 – Nov 2025
-
-* Developed deep learning pipelines for retinal vessel segmentation using CNN architectures such as U-Net and R2U-Net.
-* Performed image preprocessing, feature extraction, model training, and evaluation using accuracy metrics.
-* Technologies: Python, Computer Vision, Deep Learning, Image Processing.
-
----
-### Inventory Management System
-
-**Oct 2024 – Dec 2024**
-
-* Developed a full-stack inventory management system using the MERN stack (React, Node.js, Express.js, MongoDB).
-* Designed RESTful APIs and backend services to support scalable CRUD operations and efficient data handling.
-* **Technologies Used:** MongoDB Atlas, Express.js, React.js, Node.js, JavaScript.
+| Degree | Institution | Score |
+|--------|-------------|-------|
+| B.E. – Information Science & Engineering | Jyothy Institute of Technology, VTU | GPA: 8.6 / 10 |
+| Pre-University (PCMB) | St. Francis Composite PU College, Bengaluru | 80.6% |
 
 ---
 
-## Education
+## 📜 Certifications
 
-**B.E. – Information Science & Engineering**
-Jyothy Institute of Technology, VTU – Bengaluru
-
-**GPA:** 8.6
-**Duration:** Dec 2022 – Present
+- 🎖️ **RHCSA** — Red Hat Certified System Administrator
+- ☁️ **Google Cloud Computing Foundations**
+- 💼 **JPMorgan Chase & Co** – Software Engineering Job Simulation
 
 ---
 
-## Certifications
+## 🏆 Activities & Leadership
 
-* JPMorgan Chase & Co – Software Engineering Job Simulation
-* RHCSA
-* Google Cloud Computing Foundations
-* Data Structures in C
-* MERN Stack Development
-* Java Programming
+- 🎨 **Design Lead @ BitsnBytes** — Official college tech club; managed visual communications, event creatives, and design output for technical fests
+- 🎮 **Gameathon 6.0** — Independently developed a 3D interactive game using Unity, Blender, and Photoshop (environment design, asset creation, and game logic from concept to build)
 
 ---
 
-## Interests
+## 📊 GitHub Stats
 
-* Software Development
-* Data Analytics
-* Artificial Intelligence
-* Backend Engineering
-* Cloud Computing
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshakiran08&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshakiran08&layout=compact&theme=tokyonight)
+
+---
+
+> *"Building things that work and learning things that matter."*
+
+⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
