@@ -4,7 +4,7 @@
 
 Full-stack developer and ML enthusiast with hands-on experience building web applications and deep learning models. I love turning ideas into working products — from REST APIs to CNN pipelines.
 
-📧 harshakiran2k4@gmail.com &nbsp;|&nbsp; 📞 +91 87927 27104 &nbsp;|&nbsp; [[LinkedIn]](https://www.linkedin.com/in/harsha-kiran-h-b-888819311)(#) &nbsp;|&nbsp; [GitHub](https://github.com/Harshakiran08)
+📧 harshakiran2k4@gmail.com &nbsp;|&nbsp; 📞 +91 87927 27104 &nbsp;|&nbsp; [[LinkedIn]](https://www.linkedin.com/in/harsha-kiran-h-b-888819311) &nbsp;|&nbsp; [GitHub](https://github.com/Harshakiran08)
 
 ---
 
