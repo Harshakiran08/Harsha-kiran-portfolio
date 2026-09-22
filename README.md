@@ -153,8 +153,8 @@ Working on software development projects involving full-stack application develo
 # 📫 Connect With Me
 
 - **GitHub:** [Harshakiran08](https://github.com/Harshakiran08)
-- **LinkedIn:** [Add your LinkedIn profile]
-- **Email:** [Add your professional email]
+- **LinkedIn:** [harshakiranhb](https://www.linkedin.com/in/harshakiranhb)
+- **Email:** [harshakiran2k4@gmail.com]
 
 ---
 
