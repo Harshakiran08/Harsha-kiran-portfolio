@@ -1,4 +1,4 @@
-# Hi, I'm Harsha Kiran 👋
+# Hi, I'm Harsha Kiran 
 
 ### Software Engineer | Full-Stack Development | AI/ML
 
@@ -8,7 +8,7 @@ I enjoy working on real-world problems involving **Python, FastAPI, React, compu
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Software Engineer Trainee at **XcelCorp**
 - VTU graduate in **Information Science & Engineering**
@@ -19,7 +19,7 @@ I enjoy working on real-world problems involving **Python, FastAPI, React, compu
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 `Python` `Java` `JavaScript` `SQL`
@@ -44,7 +44,7 @@ I enjoy working on real-world problems involving **Python, FastAPI, React, compu
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 1. Vein Vision AI
 
@@ -107,7 +107,7 @@ A Java-based inventory management application demonstrating object-oriented prog
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Software Engineer Trainee — XcelCorp
 
@@ -128,7 +128,7 @@ Working on software development projects involving full-stack application develo
 
 ---
 
-# 🎓 Education
+# Education
 
 ### Bachelor of Engineering — Information Science & Engineering
 
@@ -137,7 +137,7 @@ Working on software development projects involving full-stack application develo
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Generative AI
 - Large Language Models
@@ -150,12 +150,12 @@ Working on software development projects involving full-stack application develo
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 - **GitHub:** [Harshakiran08](https://github.com/Harshakiran08)
 - **LinkedIn:** [harshakiranhb](https://www.linkedin.com/in/harshakiranhb)
-- **Email:** [harshakiran2k4@gmail.com]
+- **Email:** harshakiran2k4@gmail.com
 
 ---
 
-### 💡 Building software, exploring AI, and continuously learning.
+### Building software, exploring AI, and continuously learning.
