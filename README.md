@@ -1,120 +1,161 @@
-# 👋 Hi! I'm Harsha Kiran H B
+# Hi, I'm Harsha Kiran 👋
 
-**Software Engineer Trainee @ XcelCorp** | Full-Stack Developer | ML/AI Enthusiast  
-*Building scalable web applications with modern tech stacks*
+### Software Engineer | Full-Stack Development | AI/ML
 
----
+I'm a Software Engineer focused on building reliable, scalable applications across **backend, frontend, AI/ML, and cloud technologies**.
 
-## 🎯 About Me
-
-I'm an Information Science & Engineering graduate (VTU, 2026 | CGPA: 8.71) with hands-on software engineering experience in **full-stack development**, **computer vision**, and **cloud technologies**. 
-
-Currently, I'm contributing to **HRMS application development** at XcelCorp, building responsive React.js interfaces and robust FastAPI backend services. I'm passionate about writing clean, well-tested code and applying software design principles to deliver reliable features in Agile environments.
-
-**What sets me apart:**
-- 🎓 Strong foundation in Object-Oriented Programming & SDLC principles
-- 🚀 Experience across **Python, Java, JavaScript** with REST APIs, databases, and cloud deployment
-- 🤖 Deep learning project work with **Computer Vision** (CNNs, U-Net, R2U-Net)
-- ⚙️ Practical exposure to **CI/CD, Docker, AWS, Jenkins**
-- 🔐 Full-stack security implementation (JWT, RBAC, CORS, password hashing)
+I enjoy working on real-world problems involving **Python, FastAPI, React, computer vision, machine learning, REST APIs, databases, and cloud deployment**.
 
 ---
 
-## 💻 Technical Skills
+## 👨‍💻 About Me
 
-**Languages:** Python, Java, JavaScript, SQL, HTML5, CSS3
-
-**Frontend:** React.js, HTML5, CSS3  
-**Backend:** FastAPI, REST API Design, Pydantic, JDBC  
-**Databases:** PostgreSQL, MySQL  
-**AI/ML:** TensorFlow, Keras, OpenCV, CNN (U-Net, R2U-Net), Computer Vision, LLMs, Prompt Engineering, RAG  
-
-**SDLC & DevOps:** Agile, Git/GitLab, Docker, AWS, Jenkins, CI/CD, Unit Testing, Technical Documentation  
-**Tools & Platforms:** VS Code, Figma, pgAdmin, Postman  
-
-**Core Concepts:** OOP, REST API Design, Database Design, Authentication & Authorization, System Design
+- Software Engineer Trainee at **XcelCorp**
+- VTU graduate in **Information Science & Engineering**
+- Interested in **Full-Stack Development, AI/ML, Computer Vision, Generative AI, and RAG**
+- Experience building REST APIs and full-stack applications
+- Interested in designing practical AI-powered applications and automation systems
+- Currently expanding my knowledge of **LLM applications, RAG, cloud technologies, and AI system architecture**
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technical Skills
 
-### **Software Engineer Trainee** — *XcelCorp* | 2026 - Present
+### Languages
+`Python` `Java` `JavaScript` `SQL`
 
-**Tech Stack:** React.js | FastAPI | Python | JavaScript | PostgreSQL | JWT | RBAC | Docker | AWS | Jenkins
+### Frontend
+`React` `HTML5` `CSS3`
 
-- **Full-Stack HRMS Development:** Contributing to a complete Human Resource Management System, building responsive React.js frontends and scalable Python/FastAPI backend services
-- **REST API & Backend:** Designing and implementing REST APIs, handling CRUD operations, business logic, request validation (Pydantic), and database integration (PostgreSQL)
-- **Security & Authentication:** Implementing JWT-based authentication, role-based access control (RBAC), CORS policies, password hashing, and secure session management
-- **Frontend Development:** Translating Figma designs into functional, responsive UIs with React.js, collaborating with design & backend teams
-- **DevOps & Deployment:** Hands-on experience with Docker containerization, AWS cloud services, Jenkins CI/CD pipelines, and automated deployments
-- **Agile Collaboration:** Working in Git/GitLab-based workflows, following SDLC best practices, debugging, testing, and technical documentation
-- **Team Collaboration:** Supporting project delivery through cooperative work with engineers, stakeholders, and cross-functional teams
+### Backend
+`FastAPI` `REST APIs` `Pydantic`
 
----
+### AI / ML
+`Computer Vision` `Deep Learning` `TensorFlow` `Keras` `OpenCV` `U-Net` `R2U-Net` `RAG` `LLM Applications`
 
-## 🚀 Featured Projects
+### Databases
+`PostgreSQL` `MySQL` `SQLite`
 
-### **🧠 Vein-Vision — Retinal Vessel Segmentation**
-**Feb 2025 – Nov 2025** | *AI/ML | Computer Vision*
+### Cloud & DevOps
+`AWS` `Docker` `Jenkins` `CI/CD` `Git` `GitLab`
 
-*Python • TensorFlow • Keras • CNN • U-Net • R2U-Net • OpenCV • Deep Learning*
-
-A production-ready **medical image segmentation system** for automated detection and visualization of retinal blood vessels:
-
-- **92% segmentation accuracy** — 12-point improvement over baseline — achieved through fine-tuning U-Net and R2U-Net architectures
-- **End-to-end pipeline:** Data ingestion → Augmentation → Preprocessing → Training → Prediction → Visualization
-- **Evaluated on DRIVE & STARE datasets** with precision, recall, and F1 metrics for robustness
-- **Reproducible workflow** with comprehensive technical documentation for model deployment
-
-**[View Repository](https://github.com/Harshakiran08/vein-vision-ai)**
+### Development Practices
+`REST API Design` `Authentication` `RBAC` `CRUD` `Agile` `SDLC`
 
 ---
 
-### **📦 Inventory Management System**
-**Oct 2024 – Dec 2024** | *Backend | OOP | Database Design*
+# 🚀 Featured Projects
 
-*Core Java • Collections Framework • JDBC • MySQL • Exception Handling*
+## 1. Vein Vision AI
 
-A full-featured **inventory management system** demonstrating strong OOP and database integration:
+A deep-learning based medical image segmentation project focused on detecting and segmenting vascular structures from medical images.
 
-- **4 CRUD operations** with clean object-oriented architecture and reusable components
-- **3 data-handling mechanisms:** Collections Framework, JDBC, and file I/O for flexible data persistence
-- **2 MySQL databases** with complete data validation, exception handling, and transactional integrity
-- Real-world application of design patterns and SOLID principles
+### Technologies
 
----
+`Python` `TensorFlow` `Keras` `OpenCV` `U-Net` `R2U-Net`
 
-### **✈️ Airline Ticket Reservation System**
-**Jan 2024 – Mar 2024** | *Full-Stack | Database Design*
+### Highlights
 
-*PHP • MySQL • HTML/CSS • Session-based Authentication*
+- Medical image preprocessing
+- Dataset preparation and augmentation
+- U-Net based segmentation
+- R2U-Net based segmentation
+- Model training and evaluation
+- Prediction and visualization pipeline
 
-A comprehensive **end-to-end booking system** with complex workflows:
-
-- **39 PHP modules** spanning 2 role-based portals (Admin & User)
-- **Complete features:** Booking, cancellation, passenger management, payment processing, PNR management
-- **8-table relational schema** with primary/foreign-key relationships, stored procedures, and payment-trigger workflows
-- Professional-grade data integrity and user authentication
+[View Repository](https://github.com/Harshakiran08/vein-vision-ai)
 
 ---
 
-## 🏆 Certifications & Achievements
+## 2. IT Support Ticket Automation
 
-✅ **RHCSA** — Red Hat Certified System Administrator  
-✅ **Google Cloud Computing Foundations** — Cloud fundamentals certification  
-✅ **JPMorgan Chase & Co. — Software Engineering Simulation** — Industry collaboration program  
+A Python-based automation system designed to process IT support tickets and apply business rules automatically.
 
-### Notable Achievements:
-- **BitsnBytes Tech Club:** Head of Design Team — Led visual communications, event collateral, and marketing for college tech initiatives
-- **Gameathon 6.0:** Developed a 3D interactive game using Unity, Blender, Photoshop — independently handled game logic, environment design, and asset creation
+### Technologies
+
+`Python` `CSV` `Regex` `Automation`
+
+### Highlights
+
+- Ticket validation
+- Duplicate ticket detection
+- Automatic ticket identification
+- Team-based ticket routing
+- SLA deadline calculation
+- Rejected-ticket handling
+- Automated summary generation
+
+[View Repository](https://github.com/Harshakiran08/it-support-ticket-automation)
 
 ---
 
-## 🎓 Education
+## 3. Inventory Management System
 
-**B.E. Information Science & Engineering** | *Jyothy Institute of Technology, VTU, Bengaluru*  
-**CGPA:** 8.71 | **Graduation:** 2026
+A Java-based inventory management application demonstrating object-oriented programming and database integration.
+
+### Technologies
+
+`Java` `JDBC` `MySQL`
+
+### Highlights
+
+- Product management
+- Inventory operations
+- Database connectivity
+- CRUD operations
+- Object-oriented application design
 
 ---
 
-## 📊 GitHub Overview
+# 💼 Professional Experience
+
+## Software Engineer Trainee — XcelCorp
+
+**2026 – Present**
+
+Working on software development projects involving full-stack application development, backend APIs, databases, AI-powered features, and cloud technologies.
+
+### Areas of Work
+
+- Developing backend services and REST APIs
+- Building and improving React-based interfaces
+- Working with Python/FastAPI based systems
+- Database integration and application data management
+- AI/ML and computer vision experimentation
+- Application testing and debugging
+- Git-based development workflows
+- Cloud and deployment-related activities
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering — Information Science & Engineering
+
+**Visvesvaraya Technological University (VTU)**  
+2026
+
+---
+
+# 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
+- Computer Vision
+- AI Application Architecture
+- AWS & Cloud Deployment
+- Scalable Backend Systems
+
+---
+
+# 📫 Connect With Me
+
+- **GitHub:** [Harshakiran08](https://github.com/Harshakiran08)
+- **LinkedIn:** [Add your LinkedIn profile]
+- **Email:** [Add your professional email]
+
+---
+
+### 💡 Building software, exploring AI, and continuously learning.
